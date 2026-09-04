@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>PwC China Tax/Business News Flash (日本語版)</title>
+    <link>https://www.pwccn.com/en/services/tax/publications/taxlibrary-chinatax-jap.html</link>
+    <description>PwC中国のタックス・ナレッジ・マネジメントセンターが発行する中国税務・ビジネスニュース（日本語版）</description>
+    <atom:link href="https://www.pwccn.com/en/services/tax/publications/taxlibrary-chinatax-jap.html" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0800</lastBuildDate>
+    <item>
+      <title>2024年税務政策の解説：上海で税務事前裁定を試行、税務の確定性を向上へ</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-1-jp.pdf</link>
+      <description>発行日: Jan 2024 | Issue: Issue 1 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-1-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-1-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>改正中国会社法の重要な条項とその影響に関する解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-2-jp.pdf</link>
+      <description>発行日: Jan 2024 | Issue: Issue 2 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-2-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-2-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OECDがBEPS2.0の第2の柱に係る運営指針と第1の柱のタイムラインの更新を発表 Issue 1 (日/英)</title>
+      <link>https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-jan2024-1-jp.pdf</link>
+      <description>発行日: Jan 2024 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-jan2024-1-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-jan2024-1-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>国家税務総局「中国事前確認制度年度報告（2022）」の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-3-jp.pdf</link>
+      <description>発行日: Jan 2024 | Issue: Issue 3 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-3-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-3-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>外国人駐在員が留意すべき中国個人所得税の税制改正</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-4-jp.pdf</link>
+      <description>発行日: Jan 2024 | Issue: Issue 4 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-4-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-4-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>新「会社法」に係る税務上の検討事項</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-5-jp.pdf</link>
+      <description>発行日: Jan 2024 | Issue: Issue 5 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-5-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jan2024-5-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>新「会社法」の投融資プロジェクトに対する影響</title>
+      <link>https://www.pwccn.com/en/tax/publications/newsflash-feb2024-jp.pdf</link>
+      <description>発行日: Feb 2024 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/newsflash-feb2024-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/newsflash-feb2024-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>河套協力区における企業所得税及び個人所得税の優遇措置</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-feb2024-6-jp.pdf</link>
+      <description>発行日: Feb 2024 | Issue: Issue 6 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-feb2024-6-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-feb2024-6-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OECDによる2022年における相互協議手続に係る統計データの公表</title>
+      <link>https://www.pwccn.com/en/tax/publications/newsflash-oecd-feb2024-jp.pdf</link>
+      <description>発行日: Feb 2024 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/newsflash-oecd-feb2024-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/newsflash-oecd-feb2024-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OECDによる2023年度における事前確認制度及び相互協議手続に係る統計データの公表</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-feb2024-18-jp.pdf</link>
+      <description>発行日: Feb 2024 | Issue: Issue 18 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-feb2024-18-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-feb2024-18-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>香港特別行政区の移転価格税制に係るアップデート  (日/英)</title>
+      <link>https://www.pwccn.com/en/tax/publications/hk-tax-newsflash-tp-mar2024-jp.pdf</link>
+      <description>発行日: Mar 2024 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/hk-tax-newsflash-tp-mar2024-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/hk-tax-newsflash-tp-mar2024-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>クロスボーダー取引の事前税務コンプライアンス評価サービス、深センにて導入</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-mar2024-8-jp.pdf</link>
+      <description>発行日: Mar 2024 | Issue: Issue 8 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-mar2024-8-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-mar2024-8-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「中華人民共和国関税法」の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/interpretation-of-tariff-law-may2024-jp.pdf</link>
+      <description>発行日: May 2024 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/interpretation-of-tariff-law-may2024-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/interpretation-of-tariff-law-may2024-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>北京で税務事前裁定を試行、税務面からビジネス環境の最適化を促進</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-may2024-11-jp.pdf</link>
+      <description>発行日: May 2024 | Issue: Issue 11 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-may2024-11-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-may2024-11-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>バイデン政権による中国主要産業の輸入品に対する追加関税措置の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jun2024-12-jp.pdf</link>
+      <description>発行日: Jun 2024 | Issue: Issue 12 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jun2024-12-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jun2024-12-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>EUによる中国電気自動車に係る追加関税措置の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jun2024-13-jp.pdf</link>
+      <description>発行日: Jun 2024 | Issue: Issue 13 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jun2024-13-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jun2024-13-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OECD 「第1の柱／利益B」に関する最新ガイダンスの解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-jul2024-4-jp.pdf</link>
+      <description>発行日: Jul 2024 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-jul2024-4-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-jul2024-4-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「三中全会」における財政・税務の解説—財政・税制改革の方向性を明確化</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jul2024-14-jp.pdf</link>
+      <description>発行日: Jul 2024 | Issue: Issue 14 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jul2024-14-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jul2024-14-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「三中全会」における財政・税務の解説——消費税徴収時点の変更に係る改革の動向と課題</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-aug2024-15-jp.pdf</link>
+      <description>発行日: Aug 2024 | Issue: Issue 15 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-aug2024-15-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-aug2024-15-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>福建省で初となる国際税務事前裁定、PwCのサポートで実現</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-aug2024-16-jp.pdf</link>
+      <description>発行日: Aug 2024 | Issue: Issue 16 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-aug2024-16-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-aug2024-16-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>企業の組織再編における印紙税優遇措置</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-oct2024-17-jp.pdf</link>
+      <description>発行日: Oct 2024 | Issue: Issue 17 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-oct2024-17-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-oct2024-17-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>BEPS第2の柱における租税条約上の最低課税ルールに係る多国間協定に9ヵ国・地域が署名</title>
+      <link>https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-oct2024-6-jp.pdf</link>
+      <description>発行日: Oct 2024 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-oct2024-6-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/intl-tax-newsflash-oct2024-6-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「増値税法」が正式公布 税制新章が開幕、改革は新たな道程へ</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-dec2024-19-jp.pdf</link>
+      <description>発行日: Dec 2024 | Issue: Issue 19 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-dec2024-19-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-dec2024-19-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>グローバル・ミニマム課税および香港ミニマムトップアップ税の導入に関する法案の公示</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-dec2024-21-jp.pdf</link>
+      <description>発行日: Dec 2024 | Issue: Issue 21 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-dec2024-21-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-dec2024-21-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>マカオで重要税制改革：2026年より税務法典が全面発効</title>
+      <link>https://www.pwccn.com/en/tax/publications/intl-tax-macau-feb2025-jp.pdf</link>
+      <description>発行日: Feb 2025 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/intl-tax-macau-feb2025-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/intl-tax-macau-feb2025-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025年政府活動報告における財政・税務方針の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-mar2025-1-jp.pdf</link>
+      <description>発行日: Mar 2025 | Issue: Issue 1 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-mar2025-1-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-mar2025-1-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「徴税管理法（改正意見募集稿）」における主要な追加、変更点</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-apr2025-2-jp.pdf</link>
+      <description>発行日: Apr 2025 | Issue: Issue 2 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-apr2025-2-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-apr2025-2-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>深セン税務局、国内企業の移転価格方式による利益補償外貨送金に係る税務サービスを開始</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jun2025-4-jp.pdf</link>
+      <description>発行日: Jun 2025 | Issue: Issue 4 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jun2025-4-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jun2025-4-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>珠海エリアの企業所得税優遇リストの詳細化と奨励産業の定義の明確化</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jul2025-5-jp.pdf</link>
+      <description>発行日: Jul 2025 | Issue: Issue 5 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jul2025-5-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jul2025-5-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>納税の繰延と減免の協働：国外出資者による国内再投資に係る新たな優遇税制の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-jul2025-6-jp.pdf</link>
+      <description>発行日: Jul 2025 | Issue: Issue 6 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-jul2025-6-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-jul2025-6-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>海南島にて域内ゼロ関税政策「封関」が間もなく開始、新政策の優遇措置強化</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-8-jp.pdf</link>
+      <description>発行日: Aug 2025 | Issue: Issue 8 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-8-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-8-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>国外出資者の再投資に係る税務減免政策－国家税務総局が詳細解説公布</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-9-jp.pdf</link>
+      <description>発行日: Aug 2025 | Issue: Issue 9 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-9-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-9-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「増値税法実施条例」の意見募集を正式に開始、多くの注目すべきポイントについて</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-10-jp.pdf</link>
+      <description>発行日: Aug 2025 | Issue: Issue 10 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-10-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-10-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>未控除仕入増値税額の還付に係る新政策の施行——重要な変更点の概要</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-11-jp.pdf</link>
+      <description>発行日: Aug 2025 | Issue: Issue 11 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-11-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-aug2025-11-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>上海の税務事前裁定、試行から正式施行へ：2025年新弁法の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-nov2025-13-jp.pdf</link>
+      <description>発行日: Nov 2025 | Issue: Issue 13 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-nov2025-13-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-nov2025-13-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>国家税務総局が「中国事前確認制度年次報告（2024）」を公表、BAPAが主な選択肢に</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-dec2025-15-jp.pdf</link>
+      <description>発行日: Dec 2025 | Issue: Issue 15 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-dec2025-15-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-dec2025-15-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「増値税法実施条例」が公布、増値税政策の主な変更点</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-dec2025-16-jp.pdf</link>
+      <description>発行日: Dec 2025 | Issue: Issue 16 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-dec2025-16-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-dec2025-16-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>増値税法に関連する通達の解説（一） 長期資産に係る仕入増値税額控除の暫定弁法</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-1-jp.pdf</link>
+      <description>発行日: Feb 2026 | Issue: Issue 1 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-1-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-1-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>増値税法に関連する通達の解説（二） 課税対象、優遇政策の経過措置、売上高の計算、小規模納税者の課税最低ラインなどを明確化</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-2-jp.pdf</link>
+      <description>発行日: Feb 2026 | Issue: Issue 2 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-2-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-2-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>増値税法に関連する通達の解説（三） 仕入増値税額の控除、資産再編における非課税処理、混合販売への適用税率、納税義務の発生時期などの明確化</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-3-jp.pdf</link>
+      <description>発行日: Feb 2026 | Issue: Issue 3 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-3-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-feb2026-3-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>第15次5カ年計画元年、2026年「政府活動報告」における財政・税務政策の解説</title>
+      <link>https://www.pwccn.com/en/tax/publications/chinatax-news-mar2026-4-jp.pdf</link>
+      <description>発行日: Mar 2026 | Issue: Issue 4 | [ステッカー] PDFファイル</description>
+      <guid isPermaLink="true">https://www.pwccn.com/en/tax/publications/chinatax-news-mar2026-4-jp.pdf</guid>
+      <enclosure url="https://www.pwccn.com/en/tax/publications/chinatax-news-mar2026-4-jp.pdf" length="0" type="application/pdf"/>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
