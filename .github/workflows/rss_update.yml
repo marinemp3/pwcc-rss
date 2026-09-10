@@ -9,6 +9,7 @@ on:
 # 権限を明示的に設定（重要！）
 permissions:
   contents: write  # リポジトリの内容を書き込む権限
+  actions: write   # keepalive アクションが GitHub API を利用するために必要
 
 jobs:
   update-rss:
@@ -17,6 +18,7 @@ jobs:
     # ジョブレベルでも権限を設定可能
     permissions:
       contents: write
+      actions: write  # keepalive アクションが GitHub API を利用するために必要
     
     steps:
       - name: リポジトリをチェックアウト
@@ -50,5 +52,15 @@ jobs:
             echo "変更はありません"
           else
             git commit -m "chore: RSSフィードを自動更新 ($(date '+%Y-%m-%d %H:%M'))"
+            # プッシュ前にリモートの変更を取り込む（競合回避）
+            git pull --rebase origin ${{ github.ref_name }}
             git push
           fi
+      
+      # 60日間の無効化対策（keepalive）
+      - name: Keepalive（ワークフロー無効化防止）
+        if: always()
+        uses: entepotenz/keep-github-actions-alive-min-dependencies@v1
+        with:
+          COMMIT_MESSAGE: "Keepalive: ワークフロー無効化防止"
+          TIME_ELAPSED_THRESHOLD_IN_DAYS: 50
