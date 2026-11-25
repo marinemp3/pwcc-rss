@@ -66,10 +66,30 @@ DEFAULT_HEADERS = {
 }
 
 
+def _clean_headers(headers):
+    """
+    ヘッダー値の先頭・末尾にある空白・改行・タブを強制的に除去する。
+    requests は値の先頭に空白があると InvalidHeader を送出するため、
+    送信直前にここで必ずクレンジングする。
+    """
+    cleaned = {}
+    for key, value in headers.items():
+        str_value = str(value)
+        # 改行・復帰・タブを除去したうえで前後の空白を strip
+        normalized = str_value.replace("\r", "").replace("\n", "").strip()
+        if normalized != str_value:
+            logger.warning(
+                f"ヘッダー '{key}' に余分な空白/改行を検出したため除去しました: "
+                f"{str_value!r} -> {normalized!r}"
+            )
+        cleaned[key] = normalized
+    return cleaned
+
+
 def _build_session():
     """リトライ付きの requests.Session を構築する"""
     session = requests.Session()
-    session.headers.update(DEFAULT_HEADERS)
+    session.headers.update(_clean_headers(DEFAULT_HEADERS))
 
     retry = Retry(
         total=3,
@@ -88,6 +108,8 @@ def _build_session():
 
 def _fetch_with_requests(session, url, timeout=30):
     """通常の requests で取得"""
+    # 念のため送信直前にもクレンジング
+    session.headers.update(_clean_headers(dict(session.headers)))
     return session.get(url, timeout=timeout, allow_redirects=True)
 
 
@@ -96,7 +118,7 @@ def _fetch_with_cloudscraper(url, timeout=45):
     scraper = cloudscraper.create_scraper(
         browser={"browser": "chrome", "platform": "windows", "mobile": False}
     )
-    scraper.headers.update(DEFAULT_HEADERS)
+    scraper.headers.update(_clean_headers(DEFAULT_HEADERS))
     return scraper.get(url, timeout=timeout, allow_redirects=True)
 
 
@@ -153,7 +175,9 @@ def fetch_html(url):
         logger.info("最終リトライ: 5秒待機後に requests で再取得")
         time.sleep(5)
         session.headers.update(
-            {"Referer": " https://www.google.com/search?q=pwccn+tax+library"}
+            _clean_headers(
+                {"Referer": " https://www.google.com/search?q=pwccn+tax+library"}
+            )
         )
         resp = _fetch_with_requests(session, url)
         if resp.status_code == 200 and resp.text:
